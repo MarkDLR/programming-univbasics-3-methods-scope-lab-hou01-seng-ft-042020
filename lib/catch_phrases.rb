@@ -1,6 +1,6 @@
 
 def all_phrases(character)
-  mario
+  return phrase if
   toadstool
   link
 end
