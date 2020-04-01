@@ -1,4 +1,8 @@
-all_phrases(name, phrase)
+def all_phrases(name)
+  mario
+  toadstool
+  link
+  
 
 def mario
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
