@@ -2,7 +2,7 @@ def all_phrases(name)
   mario
   toadstool
   link
-  
+end
 
 def mario
  # status = 'Thank You Mario! But Our Princess Is In Another Castle!'
