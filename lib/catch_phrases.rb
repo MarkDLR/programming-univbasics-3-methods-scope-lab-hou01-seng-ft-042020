@@ -1,6 +1,8 @@
 
-def all_phrases(character)
-  character = phrase
+def all_phrases
+  mario
+  toadstool
+  link
 end
 
 def mario
