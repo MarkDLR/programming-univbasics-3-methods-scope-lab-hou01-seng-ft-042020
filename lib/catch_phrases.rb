@@ -1,5 +1,5 @@
 
-def all_phrases()
+def all_phrases(all)
   mario
   toadstool
   link
