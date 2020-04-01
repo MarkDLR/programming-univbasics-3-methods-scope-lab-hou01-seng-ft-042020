@@ -1,5 +1,5 @@
-$phrase = character
-def all_phrases(character)
+
+def all_phrases()
   mario
   toadstool
   link
