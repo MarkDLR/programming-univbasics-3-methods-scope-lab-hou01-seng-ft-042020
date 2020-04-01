@@ -1,6 +1,6 @@
 
 def all_phrases(character)
-  
+  character = phrase
 end
 
 def mario
