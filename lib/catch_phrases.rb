@@ -1,8 +1,8 @@
 
 def all_phrases(character)
-  return phrase if
-  toadstool
-  link
+  return phrase if mario
+  return phrase if toadstool
+  return phrase if link
 end
 
 def mario
