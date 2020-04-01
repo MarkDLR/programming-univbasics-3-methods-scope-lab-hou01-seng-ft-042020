@@ -3,6 +3,7 @@ def all_phrases(character)
   return mario
   
   return toadstool
+  
   return link
 end
 
