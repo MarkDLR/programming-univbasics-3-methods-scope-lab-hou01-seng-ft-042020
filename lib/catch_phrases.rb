@@ -1,4 +1,4 @@
-def all_phrases(name)
+def all_phrases(phrase)
   mario
   toadstool
   link
